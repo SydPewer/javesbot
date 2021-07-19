@@ -41,7 +41,7 @@
 
 # Click On This To Deploy
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Javes786/javes-2.0)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SydPewer/javesbot)
 
 # Requirements 
 * Python 3.8 or Higher
