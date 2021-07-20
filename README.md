@@ -1,7 +1,7 @@
 <h2 align="center"><b>OwNeR <a href="https://telegram.dog/criminaL786">『 ツᴅɪᴄͥᴛᴀᴛᴏͣʀͫ乛ᴀᴍᴀᴀɴ々』</a></b></h2>
 <br>
 <p align="center">
-   <a href="https://github.com/Javes786/javes-2.0"><img src="https://telegra.ph/file/f3b4a7929e333520808ab.jpg" alt="JAVES 2.0" width=400px></a>
+   <a href="https://github.com/Javes786/javes-2.0"><img src="https://telegra.ph/file/cc5edac066fb7960d5141.jpg" alt="JAVES 2.0" width=400px></a>
    <br>
    <br>
 </p>
