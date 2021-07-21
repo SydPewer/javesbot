@@ -51,11 +51,11 @@
 
 # String
 
-[![Run on Repl.it](https://repl.it/badge/github/STARKGANG/friday)](https://replit.com/@SydPewer/Javes-20-String-session?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/STARKGANG/friday)](https://replit.com/@SydPewer/Javes-20-String-session-1?v=1)
 
 
 # Credit
-Special Thanks To Our contributors Professor , Dalin , SydFabv , KingDP ,Shameel And Zayan.
+Special Thanks To Our contributors Professor , Dalin , Mathew , Amaan Gamer ,Rohit And Malik.
 
 
 
