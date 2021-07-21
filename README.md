@@ -1,12 +1,12 @@
-<h2 align="center"><b>OwNeR <a href="https://telegram.dog/GitHub_Professor">𝙿𝚁𝙾𝙵𝙴𝚂𝚂𝙴𝚁</a></b></h2>
+<h2 align="center"><b>Git OwNer <a href="https://telegram.dog/GitHub_Professor">𝙿𝚁𝙾𝙵𝙴𝚂𝚂𝙴𝚁</a></b></h2>
 <br>
 <p align="center">
    <a href="https://github.com/Javes786/javes-2.0"><img src="https://telegra.ph/file/cc5edac066fb7960d5141.jpg" alt="JAVES 2.0" width=400px></a>
    <br>
    <br>
 </p>
-<h1>JAVES 2.0</h1>
-<b>Javes 2.0 is a telgram userbot that running in python3 + Telethon Born From Javes.</b>
+<h1>JAVES 3.0</h1>
+<b>Javes 3.0 is a telgram userbot that running in python3 + Telethon Born From Javes.</b>
 <br>
 <br>
 
@@ -27,8 +27,8 @@
 
 # Support
 
-<a href="https://t.me/Javes2support"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://t.me/javes_support"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/JavesSD"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="Https://t.me/SDJavesBot"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 
 
@@ -45,13 +45,13 @@
 
 # Requirements 
 * Python 3.8 or Higher
-* Telegram [API Keys](https://my.telegram.org/apps)
-* String [Generate from here](https://repl.it/@Javes786/Javes-20-String-session#main.py)
+* Telegram [API Keys](https://t.me/MT_MyTelegramOrg_Bot)
+* String [Generate from here](https://replit.com/@SydPewer/Javes-20-String-session?v=1)
 
 
 # String
 
-[![Run on Repl.it](https://repl.it/badge/github/STARKGANG/friday)](https://repl.it/@Javes786/Javes-20-String-session#main.py)
+[![Run on Repl.it](https://repl.it/badge/github/STARKGANG/friday)](https://replit.com/@SydPewer/Javes-20-String-session?v=1)
 
 
 # Credit
