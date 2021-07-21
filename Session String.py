@@ -7,7 +7,7 @@ print("an online StringSession generator")
 
 
 print("t ==> Telethon (docs.telethon.dev)")
-print("Telethon UserBot ==> https://github.com/Javes786/javes-2.0")
+print("Telethon UserBot ==> https://github.com/SydPewer/javesbot")
 
 
 def Javes2():
@@ -16,15 +16,15 @@ def Javes2():
     from telethon.sessions import StringSession
     from telethon.sync import TelegramClient
 
-    APP_ID = int(input("Enter APP ID here: "))
-    API_HASH = input("Enter API HASH here: ")
+    APP_ID = int(input("Your API ID: "))
+    API_HASH = input("Your API HASH: ")
     with TelegramClient(StringSession(), APP_ID, API_HASH) as client:
         session_str = client.session.save()
         s_m = client.send_message("me", session_str)
         s_m.reply(
-            "⬆️ This StringSession is generated using https://repl.it/@Javes786/Javes-20-String-session#main.py \nPlease subscribe https://t.me/javes_support "
+            "Here Is Your String Session https://replit.com/@SydPewer/Javes-20-String-session?v=1 \nPlease subscribe https://t.me/JavesSD "
         )
-        print("please check your Telegram Saved Messages for the StringSession ")
+        print("check Saved Messages For String ")
 
 
 Javes2()
