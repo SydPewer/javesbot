@@ -1,7 +1,7 @@
 <h2 align="center"><b>Git OwNer <a href="https://telegram.dog/GitHub_Professor">𝙿𝚁𝙾𝙵𝙴𝚂𝚂𝙴𝚁</a></b></h2>
 <br>
 <p align="center">
-   <a href="https://github.com/Javes786/javes-2.0"><img src="https://telegra.ph/file/cc5edac066fb7960d5141.jpg" alt="JAVES 2.0" width=400px></a>
+   <a href="https://github.com/SydPewer/javesbot"><img src="https://telegra.ph/file/cc5edac066fb7960d5141.jpg" alt="JAVES 3.0" width=400px></a>
    <br>
    <br>
 </p>
@@ -10,15 +10,15 @@
 <br>
 <br>
 
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)]( https://github.com/Javes786/javes-2.0)
-[![AGPLv3 license](https://img.shields.io/badge/License-AGPL%20v3-green.svg)]( https://github.com/Javes786/javes-2.0#copyright--license)
-[![Stars](https://img.shields.io/github/stars/Javes786/javes-2.0?&style=flat-square)]( https://github.com/Javes786/javes-2.0/stargazers)
-[![Forks](https://img.shields.io/github/forks/Javes786/javes-2.0?&style=flat-square)]( https://github.com/Javes786/javes-2.0/network/members)
-[![Issues Open](https://img.shields.io/github/issues/Javes786/javes-2.0?&style=flat-square)]( https://github.com/Javes786/javes-2.0/issues)
-[![Issues Closed](https://img.shields.io/github/issues-closed/Javes786/javes-2.0?&style=flat-square)]( https://github.com/Javes786/javes-2.0/issues?q=is:closed)
-[![PR Open](https://img.shields.io/github/issues-pr/Javes786/javes-2.0?&style=flat-square)]( https://github.com/Javes786/javes-2.0/pulls)
-[![PR Closed](https://img.shields.io/github/issues-pr-closed/Javes786/javes-2.0?&style=flat-square)]( https://github.com/Javes786/javes-2.0/pulls?q=is:closed)
-![Repo Size](https://img.shields.io/github/repo-size/Javes786/javes-2.0?style=flat-square)
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)]( https://github.com/SydPewer/javesbot)
+[![AGPLv3 license](https://img.shields.io/badge/License-AGPL%20v3-green.svg)]( https://github.com/SydPewer/javesbot#copyright--license)
+[![Stars](https://img.shields.io/github/stars/SydPewer/javesbot?&style=flat-square)]( https://github.com/SydPewer/javesbot/stargazers)
+[![Forks](https://img.shields.io/github/forks/SydPewer/javesbot?&style=flat-square)]( https://github.com/SydPewer/javesbot/network/members)
+[![Issues Open](https://img.shields.io/github/issues/SydPewer/javesbot?&style=flat-square)]( https://github.com/SydPewer/javesbot/issues)
+[![Issues Closed](https://img.shields.io/github/issues-closed/SydPewer/javesbot?&style=flat-square)]( https://github.com/SydPewer/javesbot/issues?q=is:closed)
+[![PR Open](https://img.shields.io/github/issues-pr/SydPewer/javesbot?&style=flat-square)]( https://github.com/SydPewer/javesbot/pulls)
+[![PR Closed](https://img.shields.io/github/issues-pr-closed/SydPewer/javesbot?&style=flat-square)]( https://github.com/SydPewer/javesbot/pulls?q=is:closed)
+![Repo Size](https://img.shields.io/github/repo-size/SydPewer/javesbot?style=flat-square)
 
 <br>
 
@@ -55,18 +55,18 @@
 
 
 # Credit
-Special Thanks To Our contributors Pro Boy , Danish00 , Shivam , Shiwa ,Pawan And Anmol.
+Special Thanks To Our contributors Professor , Dalin , SydFabv , KingDP ,Shameel And Zayan.
 
 
 
 # The Normal Way
 
-Simply copy these commands and paste in Termux:
+Termux String Gen From SydPewer:
 ```apt-get update
 apt-get upgrade -y
 pkg upgrade -y
 pkg install python wget -y
-wget https://raw.githubusercontent.com/Javes786/javes-2.0/main/telesetup.py
+wget https://raw.githubusercontent.com/SydPewer/javesbot/main/telesetup.py
 pip install telethon
 python telesetup.py
 ```
@@ -83,7 +83,7 @@ python telesetup.py
     
     [-] API_HASH :   You can get this value from https://my.telegram.org
     
-[+] The Javes-2.0 User Bot will not work without setting the mandatory vars.
+[+] The Javes-3.0 User Bot will not work without setting the mandatory vars.
 ```
 
 
