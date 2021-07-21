@@ -66,7 +66,7 @@
     },
     "PROFILE_PP": {
       "description": "Your photo link for !autopic command",
-      "value": "https://telegra.ph/file/edc2836f4353c6b01bcb4.jpg",
+      "value": "https://telegra.ph/file/1828e83578b2f4612570e.jpg",
       "required": false
      
     
@@ -173,13 +173,13 @@
       },
     "JAVES_NAME": {
       "description": "You can edit bot's name",
-      "value": "Javes 2.0",
+      "value": "Javes 3.0",
       "required": false
     
     },
     "PM_MESSAGE": {
       "description": "you can edit what pm_protecter message!",
-      "value": "Hello Sir, I can't allow you to my master's PM without his permissions please be patient, Thankyou",
+      "value": "Hello Mr.. Shut Up.. Don't Play Against Javes v3.0",
       "required": false
       
     },
@@ -192,21 +192,21 @@
     },
     "AFK_MESSAGE": {
       "description": "Edit if you want!",
-      "value": "Hello Sir, My master offline just leave your message, Thankyou!",
+      "value": "Hello Sir, He Is Busy Hah, Thankyou!",
       "required": false
            
       
     },
     "BLOCK_MESSAGE": {
       "description": "Edit if you want!",
-      "value": "I am not going to allow you to spam My master's PM, You have been blocked!",
+      "value": "You Didn't Have More Warning ⚠️...You Were Blocked!",
       "required": false
       
     
     },
     "YOUR_SHORT_NAME": {
       "description": "Name to show in !javes message!",
-      "value": "your name",
+      "value": "Give Your Name",
       "required": true
       },
     "LYDIA_API_KEY": {
