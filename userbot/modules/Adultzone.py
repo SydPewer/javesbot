@@ -17,9 +17,9 @@ async def boobs(event):
     if not os.path.isdir(Var.TEMP_DOWNLOAD_DIRECTORY):
         os.makedirs(Var.TEMP_DOWNLOAD_DIRECTORY)
     pic_loc = os.path.join(Var.TEMP_DOWNLOAD_DIRECTORY, "bobs.jpg")
-    a = await event.reply("Finding some big boobs for u 🧐")
+    a = await event.reply("Dlt This Mr❗")
     await asyncio.sleep(0.5)
-    await a.edit("Sending some big boobs🤪")
+    await a.edit("⚠️ Warning ⚠️")
     nsfw = requests.get("http://api.oboobs.ru/noise/1").json()[0]["preview"]
     urllib.request.urlretrieve("http://media.oboobs.ru/{}".format(nsfw), pic_loc)
     await event.client.send_file(event.chat_id, pic_loc, force_document=False)
@@ -35,7 +35,7 @@ async def butts(event):
     pic_loc = os.path.join(Var.TEMP_DOWNLOAD_DIRECTORY, "butts.jpg")
     a = await event.reply("Finding some beautiful butts for u🧐")
     await asyncio.sleep(0.5)
-    await a.edit("Sending some beautiful butts🤪")
+    await a.edit("⚠️ Warning ⚠️")
     nsfw = requests.get("http://api.obutts.ru/noise/1").json()[0]["preview"]
     urllib.request.urlretrieve("http://media.obutts.ru/{}".format(nsfw), pic_loc)
     await event.client.send_file(event.chat_id, pic_loc, force_document=False)
@@ -51,6 +51,6 @@ CMD_HELP.update(
         \n**Usage :** Searchs and sends random B××Bs image\
         \n\n**Syntax :**`.butts`\
         \n**Usage :** Searchs and sends random Butts image\
-        \n\n\n     __**WARNING!! 18+ MODULE**__"
+        \n\n\n     __**⚠️ Warning 18+ ⚠️**__"
     }
 )
