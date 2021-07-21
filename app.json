@@ -1,7 +1,7 @@
 {
   "name": "Javes 2.0",
-  "description": "Javes 2.0 is a Telegram userbot that running on Python , It help you to manage your telegram easily ",
-  "logo": "https://telegra.ph/file/9a8075c07a133f07305c6.jpg",
+  "description": "A Bot Named Javes 3.0 Upgraded From 2.0 By Syd Pewer ",
+  "logo": "https://telegra.ph/file/6e130c1bb14fd2a53de5a.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://t.me/javes_support",
-  "website": "https://t.me/j2plugins",
-  "success_url": "https://t.me/CriMiNaL786",
+  "repository": "https://github.com/SydPewer/javesbot",
+  "website": "https://sydpewer.wixsite.com/javes20sdcreation",
+  "success_url": "https://t.me/javesSD",
   "stack": "container",
   "env": {
     "TELEGRAM_API_KEY": {
