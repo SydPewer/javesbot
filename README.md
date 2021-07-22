@@ -1,12 +1,12 @@
 <h2 align="center"><b>Git OwNer <a href="https://telegram.dog/GitHub_Professor">𝙿𝚁𝙾𝙵𝙴𝚂𝚂𝙴𝚁</a></b></h2>
 <br>
 <p align="center">
-   <a href="https://github.com/SydPewer/javesbot"><img src="https://telegra.ph/file/cc5edac066fb7960d5141.jpg" alt="JAVES 3.0" width=400px></a>
+   <a href="https://github.com/SydPewer/javesbot"><img src="https://telegra.ph/file/cc5edac066fb7960d5141.jpg" alt="JAVES 6.0" width=400px></a>
    <br>
    <br>
 </p>
-<h1>JAVES 3.0</h1>
-<b>Javes 3.0 is a telgram userbot that running in python3 + Telethon Born From Javes.</b>
+<h1>JAVES 6.0</h1>
+<b>Javes 6.0 is a telgram userbot that running in python3 + Telethon Born From Javes.</b>
 <br>
 <br>
 
@@ -83,7 +83,7 @@ python telesetup.py
     
     [-] API_HASH :   You can get this value from https://my.telegram.org
     
-[+] The Javes-3.0 User Bot will not work without setting the mandatory vars.
+[+] The Javes-6.0 User Bot will not work without setting the mandatory vars.
 ```
 
 
