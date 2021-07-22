@@ -157,11 +157,11 @@ async def parse_arguments(
 
 
 
-@javes05(outgoing=True, pattern="^\!promote(?: |$)(.*)", groups_only=True)
+@javes05(outgoing=True, pattern="^\!gpromote(?: |$)(.*)", groups_only=True)
 async def promote(event):
     chat = await event.get_chat()  
     if event.is_private:
-       await event.reply("`You can't promote users in private chats.`")
+       await event.reply("`Use In groups Bro!.`")
        return
     admin = chat.admin_rights
     creator = chat.creator
@@ -192,11 +192,11 @@ async def promote(event):
     
 
 
-@javes.on(rekcah05(pattern=f"promote(?: |$)(.*)", allow_sudo=True))
+@javes.on(rekcah05(pattern=f"gpromote(?: |$)(.*)", allow_sudo=True))
 async def promote(event):
     chat = await event.get_chat()  
     if event.is_private:
-       await event.reply("`You can't promote users in private chats.`")
+       await event.reply("`Use In groups Bro!.`")
        return
     admin = chat.admin_rights
     creator = chat.creator   
@@ -220,7 +220,7 @@ async def promote(event):
     try:
         await event.client(
             EditAdminRequest(event.chat_id, user.id, new_rights, rank))
-        await rkp.edit(f"`{JAVES_NNAME}:` **Promoted user [{user.first_name}](tg://user?id={user.id}) to admin  Sucessfully in {event.chat.title}**")
+        await rkp.edit(f"`{JAVES_NNAME}:` **Have Promoted user [{user.first_name}](tg://user?id={user.id}) to admin  Sucessfully in {event.chat.title}**")
     except BadRequestError:
         return await rkp.edit(f"`{JAVES_NNAME}:`**I don't have sufficient permissions!**")
    
@@ -232,11 +232,11 @@ async def promote(event):
 
 
 
-@javes05(outgoing=True, pattern="^\!demote(?: |$)(.*)", groups_only=True)
+@javes05(outgoing=True, pattern="^\!gdemote(?: |$)(.*)", groups_only=True)
 async def demote(event):
     chat = await event.get_chat()
     if event.is_private:
-       await event.reply("`You can't promote users in private chats.`")
+       await event.reply("`Use In groups Bro!.`")
        return
     admin = chat.admin_rights
     creator = chat.creator
@@ -260,15 +260,15 @@ async def demote(event):
     except BadRequestError:
         return await rkp.edit(f"`{JAVES_NNAME}:`**I don't have sufficient permissions!**")
         return
-    await event.edit(f"`{JAVES_NNAME}:` **Demoted user [{user.first_name}](tg://user?id={user.id}) to admin  Sucessfully in {event.chat.title}**")
+    await event.edit(f"`{JAVES_NNAME}:` **Have Demoted user [{user.first_name}](tg://user?id={user.id}) to admin  Sucessfully in {event.chat.title}**")
     
 
 
-@javes.on(rekcah05(pattern=f"demote(?: |$)(.*)", allow_sudo=True))
+@javes.on(rekcah05(pattern=f"gdemote(?: |$)(.*)", allow_sudo=True))
 async def demote(event):
     chat = await event.get_chat()
     if event.is_private:
-       await event.reply("`You can't promote users in private chats.`")
+       await event.reply("`Use In groups Bro!.`")
        return
     admin = chat.admin_rights
     creator = chat.creator
@@ -1799,9 +1799,9 @@ async def locks(event):
 
 CMD_HELP.update({
     "admin":
-    "!promote <username/reply/userid> <adminname>\
+    "!gpromote <username/reply/userid> <adminname>\
 \n**Usage:** Provides admin rights to the person in the chat.\
-\n\n!demote <username/reply/userid>\
+\n\n!gdemote <username/reply/userid>\
 \n**Usage:** Revokes the person's admin permissions in the chat.\
 \n\n!ban <username/reply/userid> r=<reason (optional)>\
 \n**Usage:** Bans the person off your chat. you can ban multiple user by !ban user1 user2 user3.....etc\
