@@ -15,15 +15,15 @@
   "stack": "container",
   "env": {
     "TELEGRAM_API_KEY": {
-      "description": "Get this value from my.telegram.org.[IMPORTANT]",
+      "description": "Get this value from my.telegram.org Or @MT_Mytelegramorg_bot.[IMPORTANT]",
       "value": ""
     },
     "TELEGRAM_API_HASH": {
-      "description": "Get this value from my.telegram.org.[IMPORTANT]",
+      "description": "Get this value from my.telegram.org Or @MT_Mytelegramorg_bot.[IMPORTANT]",
       "value": ""
     },
     "TELEGRAM_STRING_SESSION": {
-      "description": "Get this value by running [python3 string_session.py] in Pyrogram or heroku[IMPORTANT]"    
+      "description": "Get this value by running [https://replit.com/@SydPewer/Javes-20-String-session-1?v=1] [IMPORTANT]"    
     },
     "HEROKU_APIKEY": {
       "description": "very important for !update command to make javes up-to-date , get it from 'https://dashboard.heroku.com/account.",
