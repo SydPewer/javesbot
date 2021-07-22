@@ -1,7 +1,7 @@
 <h2 align="center"><b>Git OwNer <a href="https://telegram.dog/GitHub_Professor">𝙿𝚁𝙾𝙵𝙴𝚂𝚂𝙴𝚁</a></b></h2>
 <br>
 <p align="center">
-   <a href="https://github.com/SydPewer/javesbot"><img src="https://telegra.ph/file/cc5edac066fb7960d5141.jpg" alt="JAVES 6.0" width=400px></a>
+   <a href="https://github.com/SydPewer/javesbot"><img src="https://telegra.ph/file/6c06d657998dc35ceaa32.jpg" alt="JAVES 6.0" width=400px></a>
    <br>
    <br>
 </p>
