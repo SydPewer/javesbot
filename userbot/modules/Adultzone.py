@@ -1,4 +1,4 @@
-# credits to Pawan
+# credits to Syd
 # ported to Pawanbir by @I_AM_PAWANBIR
 # will be adding more soon
 
@@ -12,7 +12,7 @@ from userbot import *
 from userbot.utils import *
 
 
-@bot.on(admin_cmd("boobs$"))
+@bot.on(admin_cmd("sax$"))
 async def boobs(event):
     if not os.path.isdir(Var.TEMP_DOWNLOAD_DIRECTORY):
         os.makedirs(Var.TEMP_DOWNLOAD_DIRECTORY)
@@ -28,12 +28,12 @@ async def boobs(event):
     await a.delete()
 
 
-@bot.on(admin_cmd("butts$"))
+@bot.on(admin_cmd("sex$"))
 async def butts(event):
     if not os.path.isdir(Var.TEMP_DOWNLOAD_DIRECTORY):
         os.makedirs(Var.TEMP_DOWNLOAD_DIRECTORY)
     pic_loc = os.path.join(Var.TEMP_DOWNLOAD_DIRECTORY, "butts.jpg")
-    a = await event.reply("Finding some beautiful butts for u🧐")
+    a = await event.reply("Finding But Warning❗")
     await asyncio.sleep(0.5)
     await a.edit("⚠️ Warning ⚠️")
     nsfw = requests.get("http://api.obutts.ru/noise/1").json()[0]["preview"]
@@ -47,10 +47,10 @@ async def butts(event):
 CMD_HELP.update(
     {
         "adultzone": "**Plugin : **`adultzone`\
-        \n\n**Syntax : **`.boobs`\
-        \n**Usage :** Searchs and sends random B××Bs image\
-        \n\n**Syntax :**`.butts`\
-        \n**Usage :** Searchs and sends random Butts image\
+        \n\n**Syntax : **`.sax`\
+        \n**Usage :** Warning..Searchs and sends random B××Bs image\
+        \n\n**Syntax :**`.sex`\
+        \n**Usage :** Warning..Searchs and sends random Butts image\
         \n\n\n     __**⚠️ Warning 18+ ⚠️**__"
     }
 )
