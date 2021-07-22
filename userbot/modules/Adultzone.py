@@ -46,7 +46,7 @@ async def butts(event):
 
 CMD_HELP.update(
     {
-        "adultzone": "**Plugin : **`adultzone`\
+        "adultzone": "**Plugin : **`Bad-zone`\
         \n\n**Syntax : **`.sax`\
         \n**Usage :** Warning..Searchs and sends random B××Bs image\
         \n\n**Syntax :**`.sex`\
