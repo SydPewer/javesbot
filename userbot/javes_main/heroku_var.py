@@ -1,6 +1,6 @@
 import os
-cIient = "@j2plugins"
-cIientt = "@j2plugins"
+cIient = "@javes_plugins"
+cIientt = "@javes_plugins"
 import asyncio
 from sys import version_info
 from logging import *
