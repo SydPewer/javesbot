@@ -1,4 +1,4 @@
-# Original written by @Hackintush
+# Original written by @sydpewer
 
 import asyncio
 import time
@@ -4827,6 +4827,18 @@ async def gtfo(e):
         )
 
 
+@friday.on(events.NewMessage(pattern=r"\.kings", outgoing=True))
+async def _(event):
+    if event.fwd_from:
+        return
+    deq = deque(list("Kings - [Dev](t.me/SydPewer).[.ft](t.me/MBBS_AIMLOVER).[EDT_SD](t.me/devilxfang.[Royal](t.me/Royal_king7)[col*](t.me/Changed_With_Time) Thanks,😍"))
+    for _ in range(64):
+        await asyncio.sleep(0.1)
+        await event.edit("".join(deq))
+        deq.rotate(1)
+       )
+
+
 @friday.on(events.NewMessage(pattern=r"\.(.*)", outgoing=True))
 async def _(event):
 
@@ -4926,6 +4938,9 @@ CMD_HELP.update(
 \n\n.figdeadfrog\
 \n\n.fuck\
 \n\n.jagh\
+\n\n.kings\
+\n\n..Rep\
+\n\n.youtube\ <b>Link From Group</b>
 nUsage: List of All Available Commands."
     }
 )
