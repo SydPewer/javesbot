@@ -1,12 +1,12 @@
 <h2 align="center"><b>Git OwNer <a href="https://telegram.dog/GitHub_Professor">𝙿𝚁𝙾𝙵𝙴𝚂𝚂𝙴𝚁</a></b></h2>
 <br>
 <p align="center">
-   <a href="https://github.com/SydPewer/javesbot"><img src="https://telegra.ph/file/6c06d657998dc35ceaa32.jpg" alt="JAVES 6.0" width=400px></a>
+   <a href="https://github.com/SydPewer/javesbot"><img src="https://telegra.ph/file/24a64081f5d9520e22c94.jpg" alt="JAVES SD" width=400px></a>
    <br>
    <br>
 </p>
-<h1>JAVES 6.0</h1>
-<b>Javes 6.0 is a telgram userbot that running in python3 + Telethon Born From Javes.</b>
+<h1>JAVES SD</h1>
+<b>Javes SD is a telgram userbot that running in python3 + Telethon Born From Javes.</b>
 <br>
 <br>
 
@@ -55,7 +55,7 @@
 
 
 # Credit
-Special Thanks To Our contributors Professor , Dalin , Mathew , Amaan Gamer ,Rohit And Malik.
+Special Thanks To Our contributors @Changed_With_Time , @Royal_King7 & our hard working Team members.
 
 
 
