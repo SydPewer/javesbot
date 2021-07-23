@@ -1,4 +1,4 @@
-<h2 align="center"><b>Git OwNer <a href="https://telegram.dog/GitHub_Professor">𝙿𝚁𝙾𝙵𝙴𝚂𝚂𝙴𝚁</a></b></h2>
+<h2 align="center"><b>Javes SD Owner<a href="https://telegram.dog/GitHub_Professor">𝙿𝚁𝙾𝙵𝙴𝚂𝚂𝙴𝚁</a></b></h2>
 <br>
 <p align="center">
    <a href="https://github.com/SydPewer/javesbot"><img src="https://telegra.ph/file/24a64081f5d9520e22c94.jpg" alt="JAVES SD" width=400px></a>
