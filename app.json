@@ -1,7 +1,7 @@
 {
   "name": "Javes 3.0",
-  "description": "A Bot Named Javes 3.0 Upgraded From 2.0 By Syd Pewer ",
-  "logo": "https://telegra.ph/file/6e130c1bb14fd2a53de5a.jpg",
+  "description": "A Telethon userbot named Javes : SD build in inia with lots of love 🤗🤗",
+  "logo": "https://telegra.ph/file/24a64081f5d9520e22c94.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -31,7 +31,7 @@
     },
     "HEROKU_APPNAME": {
       "description": "enter app name again here, very important for !update command to make javes up-to-date ,",
-      "value": ""
+      "value": "enter-your-app-name"
       
      },
     "GENIUS_API_TOKEN": {
