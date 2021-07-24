@@ -16,11 +16,13 @@
   "env": {
     "TELEGRAM_API_KEY": {
       "description": "Get this value from my.telegram.org",
-      "value": ""
+      "value": "",
+      "required": true
     },
     "TELEGRAM_API_HASH": {
       "description": "Get this value from my.telegram.org",
-      "value": ""
+      "value": "",
+      "required": true
     },
     "TELEGRAM_STRING_SESSION": {
       "description": "Get this value by running [https://replit.com/@SydPewer/Javes-20-String-session-1?v=1] [IMPORTANT]",
