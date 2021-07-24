@@ -6,7 +6,9 @@
    <br>
 </p>
 <h1>JAVES SD</h1>
-<b>Javes SD is a telgram userbot that running in python3 + Telethon Born From Javes.</b>
+<b>★ Welcome :)</b>
+<b> Tʜɪs ɪs ★ 𝙅𝘼𝙑𝙀𝙎 : SD </b>
+<b>★ ᴀ ᴛᴇʟᴇᴛʜᴏɴ ʙᴀsᴇᴅ ᴛᴇʟᴇɢʀᴀᴍ ᴜsᴇʀʙᴏᴛ ᴡɪᴛʜ sᴏᴍᴇ ᴇxᴛʀᴀ ғᴇᴀᴛᴜʀᴇs ᴛᴏ ʙᴏᴏsᴛ ʏᴏᴜʀ ᴛᴇʟᴇɢʀᴀᴍ ᴇxᴘᴇʀɪᴇɴᴄᴇ ᴏʀɪɢɪɴᴀᴛᴇᴅ ғʀᴏᴍ ᴊᴀᴠᴇs ..</b>
 <br>
 <br>
 
@@ -24,25 +26,18 @@
 
 
 ## Deploy 🗞
-- [![Deploy](https://telegra.ph/file/40e714939f75a1bb53d08.jpg)](#Deploy-To-Heroku)
+- [![Deploy](https://telegra.ph/file/40e714939f75a1bb53d08.jpg)](https://heroku.com/deploy?template=https://github.com/SydPewer/javesbot)
 
 
 
-# Support
+🚑 Support 🚑
 
 <a href="https://t.me/JavesOT"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
 <a href="Https://t.me/JavesUpdates"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 
 
-# TuToRiaL
-
-<a href="http://youtube.com/watch?v=aWnWbFGXp5U"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a>
-<a href="http://youtube.com/watch?v=aWnWbFGXp5U"><img src="https://img.shields.io/youtube/views/aWnWbFGXp5U?style=social">
-
-
-
-# Click On This To Deploy
+🏄‍♂️ Click On The Button Below To Deploy 🏄‍♂️
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SydPewer/javesbot)
 
@@ -52,12 +47,13 @@
 * String [Generate from here](https://replit.com/@SydPewer/Javes-20-String-session?v=1)
 
 
-# String
+⚡ String ⚡
 
 [![Run on Repl.it](https://repl.it/badge/github/STARKGANG/friday)](https://replit.com/@SydPewer/Javes-20-String-session-1?v=1)
 
 
-# Credit
+⚜ Credits ⚜
+
 Special Thanks To Our contributors @Changed_With_Time , @Royal_King7 & our hard working Team members.
 
 
@@ -76,18 +72,10 @@ python telesetup.py
 
 
 
-# Mandatory Vars
+⚠ Mandatory Vars ⚠
 ```
-[+] Only two of the environment variables are mandatory.
 
-[+] This is because of telethon.errors.rpc_error_list.ApiIdPublishedFloodError
-
-    [-] APP_ID:   You can get this value from https://my.telegram.org
-    
-    [-] API_HASH :   You can get this value from https://my.telegram.org
-    
-[+] The Javes-6.0 User Bot will not work without setting the mandatory vars.
-```
+ Javes-SD Userbot will not work without setting the mandatory vars, there are some mandatory vars , you will get them in deploy link with reqired lable..✔
 
 
 
