@@ -1,185 +1,187 @@
 {
-  "name": "Javes SD",
-  "description": "A Telethon userbot named Javes : SD build in India🇮🇳 with lots of love 🤗🤗",
-  "logo": "https://telegra.ph/file/24a64081f5d9520e22c94.jpg",
-  "keywords": [
-    "telegram",
-    "userbot",
-    "plugin",
-    "modular",
-    "productivity"
-  ],
-  "repository": "https://github.com/SydPewer/javesbot",
-  "website": "https://sydpewer.wixsite.com/javes20sdcreation",
-  "success_url": "https://t.me/javesSD",
-  "stack": "container",
-  "env": {
-    "TELEGRAM_API_KEY": {
-      "description": "Get this value from my.telegram.org",
-      "value": "",
-      "required": true
-    },
-    "TELEGRAM_API_HASH": {
-      "description": "Get this value from my.telegram.org",
-      "value": "",
-      "required": true
-    },
-    "TELEGRAM_STRING_SESSION": {
-      "description": "Get this value by running [https://replit.com/@SydPewer/Javes-20-String-session-1?v=1]",
-      "value": "",
-      "required" : true    
-    },
-    "HEROKU_APIKEY": {
-      "description": "very important for !update command to make javes up-to-date , get it from 'https://dashboard.heroku.com/account.",
-      "value": ""   
-    },
-    "HEROKU_APPNAME": {
-      "description": "enter app name again here, very important for !update command to make javes up-to-date ,",
-      "value": "enter-your-app-name"
-
-    },
-    "TAG_LOG": {
-      "description": "your private group id same as botlog_chatid.",
-      "value": "",
-      "required": true
-    },
-    "PROFILE_PP": {
-      "description": "Your photo link for !autopic command",
-      "value": "https://telegra.ph/file/de6cb8255bc2c0ce44b4e.jpg",
-      "required": false
-    },
-    "BOTLOG": {
-      "description": "Recommeded to true ,BOTLOG_CHATID must be filled correct if you set it true",
-      "value": "False",
-      "required": false
-    },
-    "BOTLOG_CHATID": {
-      "description": "Important for working of some plugins,bot logs , make super group with @MissRose_bot then type /id to get this value",
-      "value": "0",
-      "required": true
-
-     },
-     "BOT_TOKEN": {
-      "description": "Recommended for INLINE_MODE",
-      "value": "",
-      "required": true
-     },
-      "INLINE_MODE": {
-      "description": "BOT_TOKEN must be filled correct if you set this true",
-      "value":"False",
-      "required": false
-     },
-    "CONSOLE_LOGGER_VERBOSE": {
-      "description": "BOTLOG_CHATID must be filled correct if you set it true",
-      "value": "False",
-      "required": false
-      
-    },
-    "PM_PROTECTOR": {
-      "description": "Prevent unknown people to spam your pm , type !allow to allow them to pm",
-      "value": "true",
-      "required": false
-    },
-    "ANTI_SPAMBOT": {
-      "description": "BOTLOG_CHATID must be filled correct if you set it true",
-      "value": "False",
-      "required": false
-    },
-    "ANTI_SPAMBOT_SHOUT": {
-      "description": "BOTLOG_CHATID must be filled correct if you set it true",
-      "value": "False",
-      "required": false
-    },
-    "TMP_DOWNLOAD_DIRECTORY": {
-      "description": "for use GDrive, .download etc..)",
-      "value": "./downloads/",
-      "required": false
-
-    },
-    "TG_BOT_USER_NAME_BF_HER": {
-      "description": "important for mafk fill your bot username with @",
-      "value": "",
-      "required": true
-
-    },
-    "CLEAN_WELCOME": {
-      "description": "When a new person joins, the old welcome message is deleted.",
-      "value": "True",
-      "required": false
-          
+    "name": "Javes SD",
+    "description": "A Telethon userbot named Javes : SD build in India🇮🇳 with lots of love 🤗🤗",
+    "logo": "https://telegra.ph/file/24a64081f5d9520e22c94.jpg",
+    "keywords": [
+      "telegram",
+      "userbot",
+      "plugin",
+      "modular",
+      "productivity"
+    ],
+    "repository": "https://github.com/SydPewer/javesbot",
+    "website": "https://sydpewer.wixsite.com/javes20sdcreation",
+    "success_url": "https://t.me/javesSD",
+    "stack": "container",
+    "env": {
+      "TELEGRAM_API_KEY": {
+        "description": "Get this value from my.telegram.org",
+        "value": "",
+        "required": true
       },
-    "ALIVE_S_MESSAGE": {
-      "description": "Edit if you want",
-      "value": "Hey! I'm alive. All systems online and functioning normally👌!",
-      "required": false
-      
+      "TELEGRAM_API_HASH": {
+        "description": "Get this value from my.telegram.org",
+        "value": "",
+        "required": true
       },
-    "ALIVE_E_MESSAGE": {
-      "description": "Edit if you want",
-      "value": "➖➖     ©️ 𝙅𝘼𝙑𝙀𝙎 : SD      ➖➖",
-      "required": false
-      
+      "TELEGRAM_STRING_SESSION": {
+        "description": "Get this value by running https://replit.com/@SydPewer/Javes-20-String-session-1?v=1",
+        "value": "",
+        "required" : true    
       },
-    "BIO_MESSAGE": {
-      "description": "custom bio message while u using !autobio command",
-      "value": "Current date",
-      "required": false
-      
+      "HEROKU_APIKEY": {
+        "description": "Very important for !update command to make javes up-to-date , get it from 'https://dashboard.heroku.com/account.",
+        "value": "",
+        "required"  : true
       },
-    "JAVES_NAME": {
-      "description": "You can edit bot's name",
-      "value": "𝙅𝘼𝙑𝙀𝙎 : SD ",
-      "required": false
-    
-    },
-    "PM_MESSAGE": {
-      "description": "you can edit what pm_protecter message!",
-      "value": "Pʟᴇᴀsᴇ ᴡᴀɪᴛ ғᴏʀ ᴍʏ ᴍᴀsᴛᴇʀ ᴛᴏ ʀᴇsᴘᴏɴsᴇ ᴇʟsᴇ ʏᴏᴜ ᴡɪʟʟ ɢᴇᴛ ʙʟᴏᴄᴋᴇᴅ ᴀɴᴅ ʀᴇᴘᴏʀᴛᴇᴅ ! 👨‍💻",
-      "required": false
-      
-    },
-    "SUDO_USERS": {
-      "description": "give sudo user's id , he can controll your javes, you can add multiple sudo users id by space , sudo users cant access your privacy untill you on full_sudo",
-      "value": "",
-      "required": false
+      "HEROKU_APPNAME": {
+        "description": "Enter app name again here, very important for !update command to make javes up-to-date ,",
+        "value": "enter-your-app-name",
+        "required" : true
+  
+      },
+      "TAG_LOG": {
+        "description": "Your private group id same as botlog_chatid.",
+        "value": "",
+        "required": true
+      },
+      "PROFILE_PP": {
+        "description": "Your photo link for !autopic command",
+        "value": "https://telegra.ph/file/de6cb8255bc2c0ce44b4e.jpg",
+        "required": false
+      },
+      "BOTLOG": {
+        "description": "Recommeded to true ,BOTLOG_CHATID must be filled correct if you set it true",
+        "value": "False",
+        "required": false
+      },
+      "BOTLOG_CHATID": {
+        "description": "Important for working of some plugins,bot logs , make super group with @MissRose_bot then type /id to get this value",
+        "value": "0",
+        "required": true
+  
+       },
+       "BOT_TOKEN": {
+        "description": "Recommended for INLINE_MODE",
+        "value": "",
+        "required": true
+       },
+        "INLINE_MODE": {
+        "description": "BOT_TOKEN must be filled correct if you set this true",
+        "value":"False",
+        "required": false
+       },
+      "CONSOLE_LOGGER_VERBOSE": {
+        "description": "BOTLOG_CHATID must be filled correct if you set it true",
+        "value": "False",
+        "required": false
+        
+      },
+      "PM_PROTECTOR": {
+        "description": "Prevent unknown people to spam your pm , type !allow to allow them to pm",
+        "value": "true",
+        "required": false
+      },
+      "ANTI_SPAMBOT": {
+        "description": "BOTLOG_CHATID must be filled correct if you set it true",
+        "value": "False",
+        "required": false
+      },
+      "ANTI_SPAMBOT_SHOUT": {
+        "description": "BOTLOG_CHATID must be filled correct if you set it true",
+        "value": "False",
+        "required": false
+      },
+      "TMP_DOWNLOAD_DIRECTORY": {
+        "description": "For use GDrive, .download etc..)",
+        "value": "./downloads/",
+        "required": false
+  
+      },
+      "TG_BOT_USER_NAME_BF_HER": {
+        "description": "Important for mafk fill your bot username with @",
+        "value": "",
+        "required": true
+  
+      },
+      "CLEAN_WELCOME": {
+        "description": "This will delete the joing message of new members.",
+        "value": "True",
+        "required": false
             
+        },
+      "ALIVE_S_MESSAGE": {
+        "description": "Edit if you want",
+        "value": "Hey! I'm alive. All systems online and functioning normally👌!",
+        "required": false
+        
+        },
+      "ALIVE_E_MESSAGE": {
+        "description": "Edit if you want",
+        "value": "➖➖     ©️ 𝙅𝘼𝙑𝙀𝙎 : SD      ➖➖",
+        "required": false
+        
+        },
+      "BIO_MESSAGE": {
+        "description": "custom bio message while u using !autobio command",
+        "value": "Current date",
+        "required": false
+        
+        },
+      "JAVES_NAME": {
+        "description": "You can edit bot's name",
+        "value": "𝙅𝘼𝙑𝙀𝙎 : SD ",
+        "required": false
       
-    },
-    "AFK_MESSAGE": {
-      "description": "Edit if you want!",
-      "value": "My master is afk right now. Wait till he comes online",
-      "required": false
-           
+      },
+      "PM_MESSAGE": {
+        "description": "you can edit what pm_protecter message!",
+        "value": "Pʟᴇᴀsᴇ ᴡᴀɪᴛ ғᴏʀ ᴍʏ ᴍᴀsᴛᴇʀ ᴛᴏ ʀᴇsᴘᴏɴsᴇ ᴇʟsᴇ ʏᴏᴜ ᴡɪʟʟ ɢᴇᴛ ʙʟᴏᴄᴋᴇᴅ ᴀɴᴅ ʀᴇᴘᴏʀᴛᴇᴅ ! 👨‍💻",
+        "required": false
+        
+      },
+      "SUDO_USERS": {
+        "description": "If sudo id added, sudo user can get access to your bot. If full_sudo is on then he can aslo get access to your private stuff. You can add multiple sudo by giving a space between them.",
+        "value": "",
+        "required": false
+              
+        
+      },
+      "AFK_MESSAGE": {
+        "description": "Edit if you want!",
+        "value": "My master is afk right now. Wait till he comes online",
+        "required": false
+             
+        
+      },
+      "BLOCK_MESSAGE": {
+        "description": "Edit if you want!",
+        "value": "Eeeny, meeny, miny, moe, I don't care, so out you go!",
+        "required": false
+        
       
+      },
+      "YOUR_SHORT_NAME": {
+        "description": "Name to show in !javes message!",
+        "value": "Give Your Name",
+        "required": true
+  
+      },
+      "YOUTUBE_API_KEY": {
+        "description": "YouTube Data API Key for !youtube command. Get from https://console.cloud.google.com",
+        "value": "Enter api here if you need ",
+        "required": false
+      },
+      "LOGSPAMMER": {
+        "description": "BOTLOG_CHATID must be filled correct if you set it true",
+        "value": "false",
+        "required": false
+      }
     },
-    "BLOCK_MESSAGE": {
-      "description": "Edit if you want!",
-      "value": "Eeeny, meeny, miny, moe, I don't care, so out you go!",
-      "required": false
-      
-    
-    },
-    "YOUR_SHORT_NAME": {
-      "description": "Name to show in !javes message!",
-      "value": "Give Your Name",
-      "required": true
-
-    },
-    "YOUTUBE_API_KEY": {
-      "description": "YouTube Data API Key for !youtube command. Get from https://console.cloud.google.com",
-      "value": "Enter api here if you need ",
-      "required": false
-    },
-    "LOGSPAMMER": {
-      "description": "BOTLOG_CHATID must be filled correct if you set it true",
-      "value": "false",
-      "required": false
-    }
-  },
-  "addons": [{
-   "plan": "heroku-postgresql",
-   "options": {
-    "version": "12"
+    "addons": [{
+     "plan": "heroku-postgresql",
+     "options": {
+      "version": "12"
+     }
+    }]
    }
-  }]
- }
