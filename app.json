@@ -161,6 +161,11 @@
       "required": true
 
     },
+    "YOUTUBE_API_KEY": {
+      "description": "YouTube Data API Key for !youtube command. Get from https://console.cloud.google.com",
+      "value": "Enter api here if you need ",
+      "required": false
+    },
     "LOGSPAMMER": {
       "description": "BOTLOG_CHATID must be filled correct if you set it true",
       "value": "false",
