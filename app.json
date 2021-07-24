@@ -179,7 +179,8 @@
     },
     "PM_MESSAGE": {
       "description": "you can edit what pm_protecter message!",
-      "value": "Hello Mr.. Shut Up.. Don't Play Against Javes v3.0",
+      "value": "Hey! Noob don't spam here else get a gban.
+Wait till my master allow you to PM him",
       "required": false
       
     },
