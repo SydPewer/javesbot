@@ -23,6 +23,9 @@
 <br>
 
 
+## Deploy 🗞
+- [![Deploy](https://telegra.ph/file/40e714939f75a1bb53d08.jpg)](#Deploy-To-Heroku)
+
 
 
 # Support
@@ -41,7 +44,7 @@
 
 # Click On This To Deploy
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SydPewer/javesbot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SydPewer/javesbot)
 
 # Requirements 
 * Python 3.8 or Higher
