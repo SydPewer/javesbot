@@ -124,13 +124,13 @@
       },
     "JAVES_NAME": {
       "description": "You can edit bot's name",
-      "value": "Javes 3.0",
+      "value": "𝙅𝘼𝙑𝙀𝙎 : SD ",
       "required": false
     
     },
     "PM_MESSAGE": {
       "description": "you can edit what pm_protecter message!",
-      "value": "Hello Mr.. Shut Up.. Don't Play Against Javes v3.0",
+      "value": "Pʟᴇᴀsᴇ ᴡᴀɪᴛ ғᴏʀ ᴍʏ ᴍᴀsᴛᴇʀ ᴛᴏ ʀᴇsᴘᴏɴsᴇ ᴇʟsᴇ ʏᴏᴜ ᴡɪʟʟ ɢᴇᴛ ʙʟᴏᴄᴋᴇᴅ ᴀɴᴅ ʀᴇᴘᴏʀᴛᴇᴅ ! 👨‍💻",
       "required": false
       
     },
