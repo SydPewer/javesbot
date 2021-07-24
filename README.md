@@ -5,7 +5,7 @@
    <br>
    <br>
 </p>
-<h2>⚜ About JAVES : SD ⚜</h2>
+<h3>💬 About JAVES : SD Userbot 💬</h3>
 <b>★ Welcome :) </b>
 <br>
 <b>★ Tʜɪs ɪs 𝙅𝘼𝙑𝙀𝙎 : SD </b>
@@ -54,7 +54,7 @@
 [![Run on Repl.it](https://repl.it/badge/github/STARKGANG/friday)](https://replit.com/@SydPewer/Javes-20-String-session-1?v=1)
 
 
-⚜ Credits ⚜
+<h2> ⚜ Credits ⚜ </h2>
 
 Special Thanks To Our contributors @Changed_With_Time , @Royal_King7 & our hard working Team members.
 
