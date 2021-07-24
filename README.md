@@ -1,4 +1,10 @@
 <h2 align="center"><b>Javes SD Owner -> <a href="https://telegram.dog/GitHub_Professor">𝙿𝚁𝙾𝙵𝙴𝚂𝚂𝙴𝚁</a></b></h2>
+<b>★ Welcome :) </b>
+<br>
+<b>★ Tʜɪs ɪs 𝙅𝘼𝙑𝙀𝙎 : SD </b>
+<br>
+<b>★ ᴀ ᴛᴇʟᴇᴛʜᴏɴ ʙᴀsᴇᴅ ᴛᴇʟᴇɢʀᴀᴍ ᴜsᴇʀʙᴏᴛ ᴡɪᴛʜ sᴏᴍᴇ ᴇxᴛʀᴀ ғᴇᴀᴛᴜʀᴇs ᴛᴏ ʙᴏᴏsᴛ ʏᴏᴜʀ ᴛᴇʟᴇɢʀᴀᴍ ᴇxᴘᴇʀɪᴇɴᴄᴇ ᴏʀɪɢɪɴᴀᴛᴇᴅ ғʀᴏᴍ ᴊᴀᴠᴇs ..</b>
+<br>
 <br>
 <p align="center">
    <a href="https://github.com/SydPewer/javesbot"><img src="https://telegra.ph/file/24a64081f5d9520e22c94.jpg" alt="JAVES SD" width=400px></a>
