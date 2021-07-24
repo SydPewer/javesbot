@@ -5,7 +5,7 @@
    <br>
    <br>
 </p>
-<h2>⚜ About JAVES SD ⚜</h2>
+<h2>⚜ About JAVES : SD ⚜</h2>
 <b>★ Welcome :) </b>
 <br>
 <b>★ Tʜɪs ɪs 𝙅𝘼𝙑𝙀𝙎 : SD </b>
@@ -27,19 +27,19 @@
 <br>
 
 
-## Deploy 🗞
+<h2> 💠 Deploy 💠 </h2>
 - [![Deploy](https://telegra.ph/file/40e714939f75a1bb53d08.jpg)](https://heroku.com/deploy?template=https://github.com/SydPewer/javesbot)
 
 
 
-🚑 Support 🚑
+<h2> 🚑 Support 🚑 </h2>
 
 <a href="https://t.me/JavesOT"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
 <a href="Https://t.me/JavesUpdates"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 
 
-🏄‍♂️ Click On The Button Below To Deploy 🏄‍♂️
+<h2> 🏄‍♂️ Click On The Button Below To Deploy 🏄‍♂️ </h2>
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SydPewer/javesbot)
 
@@ -49,7 +49,7 @@
 * String [Generate from here](https://replit.com/@SydPewer/Javes-20-String-session?v=1)
 
 
-⚡ String ⚡
+<h2> ⚡ String ⚡ </h2>
 
 [![Run on Repl.it](https://repl.it/badge/github/STARKGANG/friday)](https://replit.com/@SydPewer/Javes-20-String-session-1?v=1)
 
@@ -74,7 +74,7 @@ python telesetup.py
 
 
 
-⚠ Mandatory Vars ⚠
+<h2> ⚠ Mandatory Vars ⚠ </h2>
 ```
 
  Javes-SD Userbot will not work without setting the mandatory vars, there are some mandatory vars , you will get them in deploy link with reqired lable..✔
