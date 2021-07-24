@@ -1,9 +1,7 @@
 <h2 align="center"><b>Javes SD Owner -> <a href="https://telegram.dog/GitHub_Professor">𝙿𝚁𝙾𝙵𝙴𝚂𝚂𝙴𝚁</a></b></h2>
-<b>★ Welcome :) </b>
+<h2><b>★ Welcome :) </b></h2>
 <br>
-<b>★ Tʜɪs ɪs 𝙅𝘼𝙑𝙀𝙎 : SD </b>
-<br>
-<b>★ ᴀ ᴛᴇʟᴇᴛʜᴏɴ ʙᴀsᴇᴅ ᴛᴇʟᴇɢʀᴀᴍ ᴜsᴇʀʙᴏᴛ ᴡɪᴛʜ sᴏᴍᴇ ᴇxᴛʀᴀ ғᴇᴀᴛᴜʀᴇs ᴛᴏ ʙᴏᴏsᴛ ʏᴏᴜʀ ᴛᴇʟᴇɢʀᴀᴍ ᴇxᴘᴇʀɪᴇɴᴄᴇ ᴏʀɪɢɪɴᴀᴛᴇᴅ ғʀᴏᴍ ᴊᴀᴠᴇs ..</b>
+<h2><b>★ Tʜɪs ɪs 𝙅𝘼𝙑𝙀𝙎 : SD </b></h2>
 <br>
 <br>
 <p align="center">
@@ -12,9 +10,6 @@
    <br>
 </p>
 <h3>💬 About JAVES : SD Userbot 💬</h3>
-<b>★ Welcome :) </b>
-<br>
-<b>★ Tʜɪs ɪs 𝙅𝘼𝙑𝙀𝙎 : SD </b>
 <br>
 <b>★ ᴀ ᴛᴇʟᴇᴛʜᴏɴ ʙᴀsᴇᴅ ᴛᴇʟᴇɢʀᴀᴍ ᴜsᴇʀʙᴏᴛ ᴡɪᴛʜ sᴏᴍᴇ ᴇxᴛʀᴀ ғᴇᴀᴛᴜʀᴇs ᴛᴏ ʙᴏᴏsᴛ ʏᴏᴜʀ ᴛᴇʟᴇɢʀᴀᴍ ᴇxᴘᴇʀɪᴇɴᴄᴇ ᴏʀɪɢɪɴᴀᴛᴇᴅ ғʀᴏᴍ ᴊᴀᴠᴇs ..</b>
 <br>
