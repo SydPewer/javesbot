@@ -56,7 +56,7 @@
 
 <h2> ⚜ Credits ⚜ </h2>
 
-Special Thanks To Our contributors @Changed_With_Time , @Royal_King7 & our hard working Team members.
+Special Thanks To Our contributors @Changed_With_Time , @SydPewer & our hard working Team members.
 
 
 
