@@ -28,7 +28,7 @@
 
 
 <h2> 💠 Deploy 💠 </h2>
-- [![Deploy](https://telegra.ph/file/40e714939f75a1bb53d08.jpg)](https://heroku.com/deploy?template=https://github.com/SydPewer/javesbot)
+- [![Deploy](https://telegra.ph/file/40e714939f75a1bb53d08.jpg) ](https://heroku.com/deploy?template=https://github.com/SydPewer/javesbot)
 
 
 
