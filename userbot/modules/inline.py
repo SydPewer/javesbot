@@ -143,7 +143,7 @@ if tebot:
 	        tbu += [[ Button.inline(f"{sad2}"  , f"{sad2}")]]   
         if sad3:
            tbu += [[ Button.inline(f"{sad3}"  , f"{sad3}")]]   
-        return await event.edit ("Support Group For Report bugs & help @JavesOT", buttons=tbu, link_preview=False)   
+        return await event.edit ("If You Have Any bug & doubt.Ask At @JavesOT", buttons=tbu, link_preview=False)   
     if et in CMD_HELP: 
           fci = [[Button.inline('Go back', 'back'),Button.inline('⚙️' Main Menu, b'close')]]            
           await event.edit(str(CMD_HELP[et]), buttons=fci)
@@ -247,7 +247,7 @@ if tebot:
 	        tbu += [[ Button.inline(f"{sad2}"  , f"{sad2}")]]   
       if sad3:
 	       tbu += [[ Button.inline(f"{sad3}"  , f"{sad3}")]]   
-      result = builder.article("Help menu", text = "Support Group For Report bugs & help @javesOT", buttons=tbu, link_preview=False)      
+      result = builder.article("Help menu", text = "If You Have Any bug & doubt.Ask At @JavesOT", buttons=tbu, link_preview=False)      
       return await event.answer([result])
   return
 
