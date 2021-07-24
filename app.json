@@ -32,41 +32,17 @@
     "HEROKU_APPNAME": {
       "description": "enter app name again here, very important for !update command to make javes up-to-date ,",
       "value": "enter-your-app-name"
-      
-    },
-    "COUNTRY": {
-      "description": "Set your Country to be used in the !time and !date commands.",
-      "value": "India",
-      "required": false
+
     },
     "TAG_LOG": {
       "description": "your private group id same as botlog_chatid.",
       "value": "",
       "required": true
     },
-    "FED_LOGGER": {
-      "description": "your group id same as botlog_chatid and tag_log for superfban.",
-      "value": "",
-      "required": false
-    },
-    "FULL_SUDO": {
-      "description": "if you set it true sudo users can access your full datas ",
-      "value": "",
-      "required": false
-    },
     "PROFILE_PP": {
       "description": "Your photo link for !autopic command",
-      "value": "https://telegra.ph/file/1828e83578b2f4612570e.jpg",
+      "value": "https://telegra.ph/file/de6cb8255bc2c0ce44b4e.jpg",
       "required": false
-     
-    
-    
-    },
-    "OPEN_WEATHER_MAP_APPID": {
-      "description": "need for !weather command, (API key)from https://api.openweathermap.org",
-      "value": "Enter api here if you need ",
-      "required": false
-
     },
     "BOTLOG": {
       "description": "Recommeded to true ,BOTLOG_CHATID must be filled correct if you set it true",
@@ -100,11 +76,6 @@
       "value": "true",
       "required": false
     },
-    "YOUTUBE_API_KEY": {
-      "description": "YouTube Data API Key for !youtube command. Get from https://console.cloud.google.com",
-      "value": "Enter api here if you need ",
-      "required": false
-    },
     "ANTI_SPAMBOT": {
       "description": "BOTLOG_CHATID must be filled correct if you set it true",
       "value": "False",
@@ -135,13 +106,13 @@
       },
     "ALIVE_S_MESSAGE": {
       "description": "Edit if you want",
-      "value": "I am Alive my Master!",
+      "value": "Hey! I'm alive. All systems online and functioning normally👌!",
       "required": false
       
       },
     "ALIVE_E_MESSAGE": {
       "description": "Edit if you want",
-      "value": "Databases functioning normally!!",
+      "value": "➖➖     ©️ 𝙅𝘼𝙑𝙀𝙎 : SD      ➖➖",
       "required": false
       
       },
@@ -188,12 +159,7 @@
       "description": "Name to show in !javes message!",
       "value": "Give Your Name",
       "required": true
-      },
 
-    "WEATHER_DEFCITY": {
-      "description": "Set the default city for the userbot's !weather module.",
-      "value": "Delhi",
-      "required": false
     },
     "LOGSPAMMER": {
       "description": "BOTLOG_CHATID must be filled correct if you set it true",
