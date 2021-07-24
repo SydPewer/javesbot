@@ -6,8 +6,8 @@
    <br>
 </p>
 <h1>JAVES SD</h1>
-<b>★ Welcome :)</b>
-<b> Tʜɪs ɪs ★ 𝙅𝘼𝙑𝙀𝙎 : SD </b>
+<b>★ Welcome :)
+<b> Tʜɪs ɪs ★ 𝙅𝘼𝙑𝙀𝙎 : SD
 <b>★ ᴀ ᴛᴇʟᴇᴛʜᴏɴ ʙᴀsᴇᴅ ᴛᴇʟᴇɢʀᴀᴍ ᴜsᴇʀʙᴏᴛ ᴡɪᴛʜ sᴏᴍᴇ ᴇxᴛʀᴀ ғᴇᴀᴛᴜʀᴇs ᴛᴏ ʙᴏᴏsᴛ ʏᴏᴜʀ ᴛᴇʟᴇɢʀᴀᴍ ᴇxᴘᴇʀɪᴇɴᴄᴇ ᴏʀɪɢɪɴᴀᴛᴇᴅ ғʀᴏᴍ ᴊᴀᴠᴇs ..</b>
 <br>
 <br>
@@ -39,7 +39,7 @@
 
 🏄‍♂️ Click On The Button Below To Deploy 🏄‍♂️
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg width=400px)](https://heroku.com/deploy?template=https://github.com/SydPewer/javesbot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SydPewer/javesbot)
 
 # Requirements 
 * Python 3.8 or Higher
