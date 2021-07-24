@@ -1,7 +1,7 @@
 {
   "name": "Javes SD",
-  "description": "A Telethon userbot named Javes : SD build in India🇮🇳 with lots of love 🤗🤗",
-  "logo": "https://telegra.ph/file/fd1cece58211e86528287.jpg",
+  "description": "A Telethon userbot named Javes : SD build in india with lots of love 🤗🤗",
+  "logo": "https://telegra.ph/file/24a64081f5d9520e22c94.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -24,30 +24,19 @@
     },
     "TELEGRAM_STRING_SESSION": {
       "description": "Get this value by running [https://replit.com/@SydPewer/Javes-20-String-session-1?v=1] [IMPORTANT]"    
-      "value": "your-session-string"
     },
     "HEROKU_APIKEY": {
       "description": "very important for !update command to make javes up-to-date , get it from 'https://dashboard.heroku.com/account.",
-      "value": "your-heroku-api-key"   
+      "value": ""   
     },
     "HEROKU_APPNAME": {
       "description": "enter app name again here, very important for !update command to make javes up-to-date ,",
       "value": "enter-your-app-name"
       
-     },
-    "GENIUS_API_TOKEN": {
-      "description": "need for !lyrics command , Get your own api token from https://genius.com/developers",      
-       "value": "Enter genius api here if you need ",
-       "required": false
     },
     "COUNTRY": {
       "description": "Set your Country to be used in the !time and !date commands.",
       "value": "India",
-      "required": false
-    },
-    "TZ_NUMBER": {
-      "description": "Change this value in case your country has multiple Time Zones.",
-      "value": "1",
       "required": false
     },
     "TAG_LOG": {
@@ -58,7 +47,7 @@
     "FED_LOGGER": {
       "description": "your group id same as botlog_chatid and tag_log for superfban.",
       "value": "",
-      "required": true
+      "required": false
     },
     "FULL_SUDO": {
       "description": "if you set it true sudo users can access your full datas ",
@@ -116,16 +105,6 @@
       "value": "Enter api here if you need ",
       "required": false
     },
-    "OCR_SPACE_API_KEY": {
-      "description": "OCR API Key for !read (read photo's text)command. Get from https://ocr.space/ocrapi",
-      "value": "Enter api here if you need ",
-      "required": false
-    },
-    "REM_BG_API_KEY": {
-      "description": "API Key for .rbg(remove background picture) command. Get from https://www.remove.bg/api",
-      "value": "Enter api here if you need ",
-      "required": false
-    },
     "ANTI_SPAMBOT": {
       "description": "BOTLOG_CHATID must be filled correct if you set it true",
       "value": "False",
@@ -180,8 +159,7 @@
     },
     "PM_MESSAGE": {
       "description": "you can edit what pm_protecter message!",
-      "value": "Hey! Noob don't spam here else get a gban.
-Wait till my master allow you to PM him",
+      "value": "Hello Mr.. Shut Up.. Don't Play Against Javes v3.0",
       "required": false
       
     },
@@ -211,21 +189,10 @@ Wait till my master allow you to PM him",
       "value": "Give Your Name",
       "required": true
       },
-    "LYDIA_API_KEY": {
-      "description": "need for auto replay (lydia) future get api key from https://coffeehouse.intellivoid.net/",
-      "value": "enter lydia api key here",
-      "required": false
-      
-    
-    },
-"HEROKU_APIKEY": {
-      "description": "Rᴇǫᴜɪʀᴇᴅ ғᴏʀ ᴜᴘᴅᴀᴛᴇʀ ᴡᴏʀᴋ 'https://dashboard.heroku.com/account.'",
-      "value": "your-heroku-api-key" 
-      "required": true  
-    },
+
     "WEATHER_DEFCITY": {
       "description": "Set the default city for the userbot's !weather module.",
-      "value": "enter your city ",
+      "value": "Delhi",
       "required": false
     },
     "LOGSPAMMER": {
