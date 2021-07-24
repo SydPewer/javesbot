@@ -1,6 +1,6 @@
 {
   "name": "Javes SD",
-  "description": "A Telethon userbot named Javes : SD build in india with lots of love 🤗🤗",
+  "description": "A Telethon userbot named Javes : SD build in India🇮🇳 with lots of love 🤗🤗",
   "logo": "https://telegra.ph/file/24a64081f5d9520e22c94.jpg",
   "keywords": [
     "telegram",
@@ -14,16 +14,19 @@
   "success_url": "https://t.me/javesSD",
   "stack": "container",
   "env": {
-    "TELEGRAM_API_KEY": {
-      "description": "Get this value from my.telegram.org Or @MT_Mytelegramorg_bot.[IMPORTANT]",
-      "value": ""
+    "TELEGRAM_API_ID": {
+      "description": "Gᴇᴛ Tʜɪs Vᴀʟᴜᴇ Fʀᴏᴍ my.telegram.org",
+      "value": "Enter your API_ID",
+      "required" : true
     },
     "TELEGRAM_API_HASH": {
-      "description": "Get this value from my.telegram.org Or @MT_Mytelegramorg_bot.[IMPORTANT]",
-      "value": ""
+      "description": "Gᴇᴛ Tʜɪs Vᴀʟᴜᴇ Fʀᴏᴍ my.telegram.org",
+      "value": "Enter your API_HASH",
+      "required" : true
     },
     "TELEGRAM_STRING_SESSION": {
-      "description": "Get this value by running [https://replit.com/@SydPewer/Javes-20-String-session-1?v=1] [IMPORTANT]"    
+      "description": "Gᴇᴛ Tʜɪs Vᴀʟᴜᴇ Bʏ Rᴜɴɴɪɴɢ [https://replit.com/@SydPewer/Javes-20-String-session-1?v=1]",
+      "required" : true   
     },
     "HEROKU_APIKEY": {
       "description": "very important for !update command to make javes up-to-date , get it from 'https://dashboard.heroku.com/account.",
