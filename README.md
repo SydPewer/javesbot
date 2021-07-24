@@ -1,6 +1,5 @@
-<h2 align="center"><b>Javes SD Owner -> <a href="https://telegram.dog/GitHub_Professor">𝙿𝚁𝙾𝙵𝙴𝚂𝚂𝙴𝚁</a></b></h2>
-<h2><b>★ Welcome :) </b></h2>
-<br>
+<h2 align="center"><b><a href="https://telegram.dog/JavesOT">★ Welcome :)</a></b></h2>
+<h2><b> </b></h2>
 <h2><b>★ Tʜɪs ɪs 𝙅𝘼𝙑𝙀𝙎 : SD </b></h2>
 <br>
 <br>
