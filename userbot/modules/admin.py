@@ -157,7 +157,7 @@ async def parse_arguments(
 
 
 
-@javes05(outgoing=True, pattern="^\!gpromote(?: |$)(.*)", groups_only=True)
+@javes05(outgoing=True, pattern="^\!promote(?: |$)(.*)", groups_only=True)
 async def promote(event):
     chat = await event.get_chat()  
     if event.is_private:
@@ -192,7 +192,7 @@ async def promote(event):
     
 
 
-@javes.on(rekcah05(pattern=f"gpromote(?: |$)(.*)", allow_sudo=True))
+@javes.on(rekcah05(pattern=f"promote(?: |$)(.*)", allow_sudo=True))
 async def promote(event):
     chat = await event.get_chat()  
     if event.is_private:
@@ -232,7 +232,7 @@ async def promote(event):
 
 
 
-@javes05(outgoing=True, pattern="^\!gdemote(?: |$)(.*)", groups_only=True)
+@javes05(outgoing=True, pattern="^\!demote(?: |$)(.*)", groups_only=True)
 async def demote(event):
     chat = await event.get_chat()
     if event.is_private:
@@ -264,7 +264,7 @@ async def demote(event):
     
 
 
-@javes.on(rekcah05(pattern=f"gdemote(?: |$)(.*)", allow_sudo=True))
+@javes.on(rekcah05(pattern=f"demote(?: |$)(.*)", allow_sudo=True))
 async def demote(event):
     chat = await event.get_chat()
     if event.is_private:
@@ -1799,9 +1799,9 @@ async def locks(event):
 
 CMD_HELP.update({
     "admin":
-    "!gpromote <username/reply/userid> <adminname>\
+    "!promote <username/reply/userid> <adminname>\
 \n**Usage:** Provides admin rights to the person in the chat.\
-\n\n!gdemote <username/reply/userid>\
+\n\n!demote <username/reply/userid>\
 \n**Usage:** Revokes the person's admin permissions in the chat.\
 \n\n!ban <username/reply/userid> r=<reason (optional)>\
 \n**Usage:** Bans the person off your chat. you can ban multiple user by !ban user1 user2 user3.....etc\
