@@ -39,7 +39,7 @@
 
 🏄‍♂️ Click On The Button Below To Deploy 🏄‍♂️
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SydPewer/javesbot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg width=400px)](https://heroku.com/deploy?template=https://github.com/SydPewer/javesbot)
 
 # Requirements 
 * Python 3.8 or Higher
