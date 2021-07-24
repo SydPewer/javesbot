@@ -115,12 +115,12 @@ if tebot:
   try:
     me = await client.get_me()
     if not event.query.user_id == me.id:
-        return await event.answer("Sorry, You dont have permission to  Access me!", alert=True)
+        return await event.answer("Sorry,You Can't Access Me❗", alert=True)
     et = event.data.decode("UTF-8")
     if et == "back":
         sad = sad2 = sad3 = sad4 = None
         lol = 0
-        tbu = [[Button.inline('❌ Close menu', b'close')]] 
+        tbu = [[Button.inline('⚙️ Main Menu', b'close')]] 
         for i in CMD_HELP:
             if lol == 0:
                sad = str(i)
@@ -145,14 +145,14 @@ if tebot:
            tbu += [[ Button.inline(f"{sad3}"  , f"{sad3}")]]   
         return await event.edit ("Support Group For Report bugs & help @JavesOT", buttons=tbu, link_preview=False)   
     if et in CMD_HELP: 
-          fci = [[Button.inline('Go back', 'back'),Button.inline('❌ Close menu', b'close')]]            
+          fci = [[Button.inline('Go back', 'back'),Button.inline('⚙️' Main Menu, b'close')]]            
           await event.edit(str(CMD_HELP[et]), buttons=fci)
 
     else:
         try:
-            await event.answer("Please Wait Sir,Or Try Other Btn", alert=True)
+            await event.answer("plz Wait Sir...", alert=True)
         except:
-            await event.answer("Please Wait Sir,Or Try Other Btn", alert=True)
+            await event.answer("Plz Wait Sir...", alert=True)
   except Exception as e:     
     	return await event.edit(str(e))
 
@@ -224,7 +224,7 @@ if tebot:
   if query.startswith("helpme"):
       sad = sad2 = sad3 = sad4 = None
       lol = 0
-      tbu = [[Button.inline('❌ Close menu', b'close')]]
+      tbu = [[Button.inline('⚙️' Main Menu, b'close')]]
       for i in CMD_HELP:
             if lol == 0:
                sad = str(i)
