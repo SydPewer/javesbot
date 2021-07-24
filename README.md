@@ -77,7 +77,7 @@ python telesetup.py
 <h2> ⚠ Mandatory Vars ⚠ </h2>
 ```
 
- Javes-SD Userbot will not work without setting the mandatory vars, there are some mandatory vars , you will get them in deploy link with reqired lable..✔
+ Javes-SD Userbot will not work without setting the mandatory vars, there are some mandatory vars , you will get them in deploy link with required lable..✔
 
 
 
