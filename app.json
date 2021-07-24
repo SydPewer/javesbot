@@ -218,6 +218,11 @@ Wait till my master allow you to PM him",
       
     
     },
+"HEROKU_APIKEY": {
+      "description": "Rᴇǫᴜɪʀᴇᴅ ғᴏʀ ᴜᴘᴅᴀᴛᴇʀ ᴡᴏʀᴋ 'https://dashboard.heroku.com/account.'",
+      "value": "your-heroku-api-key" 
+      "required": true  
+    },
     "WEATHER_DEFCITY": {
       "description": "Set the default city for the userbot's !weather module.",
       "value": "enter your city ",
