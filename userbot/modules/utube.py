@@ -5,8 +5,12 @@
 
 import re
 import random
-from userbot import bot
-from userbot.utils import admin_cmd
+from userbot import bot, CMD_HELP
+import asyncio
+import os
+from pathlib import Path
+from telethon.errors.rpcerrorlist import YouBlockedUserError
+from userbot.utils import admin_cmd, edit_or_reply
 from userbot import bot as javes
 IF_EMOJI = re.compile(
     "["
@@ -28,7 +32,7 @@ def deEmojify(inputString: str) -> str:
     return re.sub(IF_EMOJI, '', inputString)
 
 
-@javes.on(admin_cmd(pattern="utube(?: |$)(.*)"))
+@javes.on(admin_cmd(pattern="utv(?: |$)(.*)"))
 
 async def nope(doit):
     ok = doit.pattern_match.group(1)
@@ -36,7 +40,7 @@ async def nope(doit):
         if doit.is_reply:
             what = (await doit.get_reply_message()).message
         else:
-            await doit.edit("`Please give some query to search..!`")
+            await doit.edit("`Please give some query to search sur..!`")
             return
     sticcers = await bot.inline_query(
         "vid", f"{(deEmojify(ok))}")
@@ -45,3 +49,94 @@ async def nope(doit):
                             silent=True if doit.is_reply else False,
                             hide_via=True)
     await doit.delete()
+
+
+
+
+
+
+# Social Distancing..
+
+
+
+
+
+
+
+@javes.on(admin_cmd(pattern="uta ?(.*)"))
+
+async def nope(doit):
+    ok = doit.pattern_match.group(1)
+    if not ok:
+        if doit.is_reply:
+            what = (await doit.get_reply_message()).message
+        else:
+            await doit.edit("`Sir please give some query to search and download it for you..!`")
+            return
+    sticcers = await bot.inline_query(
+        "Lybot", f"{(deEmojify(ok))}")
+    await sticcers[0].click(doit.chat_id,
+                            reply_to=doit.reply_to_msg_id,
+                            silent=True if doit.is_reply else False,
+                            hide_via=True)
+    await doit.delete()
+
+
+
+SEARCH_STRING = "<code>Ok weit sur, searching....</code>"
+NOT_FOUND_STRING = "<code>Sorry sur !I am unable to find any results about your query</code>"
+SENDING_STRING = "<code>Ok weit sur, I found something related to that i'm sending.....</code>"
+BOT_BLOCKED_STRING = "<code>Please unblock @utubebot and try again</code>"
+
+@javes.on(admin_cmd(pattern="ut ?(.*)"))
+async def fetcher(event):
+    if event.fwd_from:
+        return
+    song = event.pattern_match.group(1)
+    chat = "@utubebot"
+    event = await edit_or_reply(event, SEARCH_STRING, parse_mode="html")
+    async with event.client.conversation(chat) as conv:
+        try:
+            purgeflag = await conv.send_message("/start")
+            await conv.get_response()
+            await conv.send_message(song)
+            ok = await conv.get_response()
+            while ok.edit_hide != True:
+                await asyncio.sleep(0.1)
+                ok = await event.client.get_messages(chat, ids=ok.id)
+            baka = await event.client.get_messages(chat)
+            if baka[0].message.startswith(
+                ("Sorry I found nothing..")
+            ):
+                await delete_messages(event, chat, purgeflag)
+                return await edit_delete(
+                    event, NOT_FOUND_STRING, parse_mode="html", time=5
+                )
+            await event.edit(SENDING_STRING, parse_mode="html")
+            await baka[0].click(0)
+            music = await conv.get_response()
+            await event.client.send_read_acknowledge(conv.chat_id)
+        except YouBlockedUserError:
+            await event.edit(BOT_BLOCKED_STRING, parse_mode="html")
+            return
+        await event.client.send_file(
+            event.chat_id,
+            music,
+            caption=f"<b>==> <code>{song}</code></b>",
+            parse_mode="html",
+        )
+        await event.delete()
+        await delete_messages(event, chat, purgeflag)
+
+
+CMD_HELP.update(
+    {
+        "utube": "__**PLUGIN NAME :** All YouTube__\
+    \n\n🗞** CMD ★** `.uta (song name)`\
+    \n**USAGE   ★  **Send sudio song via Lybot\
+    \n\n🗞** CMD ★** `.utv (song name)`\
+    \n**USAGE   ★  **Send video song via vidbot \
+    \n\n🗞** CMD ★** `.ut (utube video link)`\
+    \n**USAGE   ★  ** Download Youtube Videos In Your Telegram, If not fixed yet, we'll try to fix later 😅😅"
+    }
+)
