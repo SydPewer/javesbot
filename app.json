@@ -23,7 +23,9 @@
       "value": ""
     },
     "TELEGRAM_STRING_SESSION": {
-      "description": "Get this value by running [https://replit.com/@SydPewer/Javes-20-String-session-1?v=1] [IMPORTANT]"    
+      "description": "Get this value by running [https://replit.com/@SydPewer/Javes-20-String-session-1?v=1] [IMPORTANT]",
+      "value": ""
+      "required": true    
     },
     "HEROKU_APIKEY": {
       "description": "very important for !update command to make javes up-to-date , get it from 'https://dashboard.heroku.com/account.",
