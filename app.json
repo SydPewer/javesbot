@@ -24,10 +24,11 @@
     },
     "TELEGRAM_STRING_SESSION": {
       "description": "Get this value by running [https://replit.com/@SydPewer/Javes-20-String-session-1?v=1] [IMPORTANT]"    
+      "value": "your-session-string"
     },
     "HEROKU_APIKEY": {
       "description": "very important for !update command to make javes up-to-date , get it from 'https://dashboard.heroku.com/account.",
-      "value": ""   
+      "value": "your-heroku-api-key"   
     },
     "HEROKU_APPNAME": {
       "description": "enter app name again here, very important for !update command to make javes up-to-date ,",
