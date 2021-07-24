@@ -32,7 +32,7 @@ def deEmojify(inputString: str) -> str:
     return re.sub(IF_EMOJI, '', inputString)
 
 
-@javes.on(admin_cmd(pattern="utv(?: |$)(.*)"))
+@javes.on(admin_cmd(pattern="utv ?(.*)"))
 
 async def nope(doit):
     ok = doit.pattern_match.group(1)
