@@ -45,6 +45,11 @@
         "value": "",
         "required": true
       },
+    "FED_LOGGER": {
+      "description": "your group id same as botlog_chatid and tag_log for superfban.",
+      "value": "",
+      "required": true
+      },
       "PROFILE_PP": {
         "description": "Your photo link for !autopic command",
         "value": "https://telegra.ph/file/de6cb8255bc2c0ce44b4e.jpg",
