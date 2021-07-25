@@ -47,7 +47,7 @@
       },
     "FED_LOGGER": {
       "description": "your group id same as botlog_chatid and tag_log for superfban.",
-      "value": "",
+      "value": "0",
       "required": true
       },
       "PROFILE_PP": {
