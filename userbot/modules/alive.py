@@ -120,7 +120,7 @@ if client3:
 @javes05(outgoing=True, pattern="^\.alive$")
 @javes05(outgoing=True, pattern="^\!alive$")
 async def alive(alive):
-    text=("Iam On type` !javes `or` !help `for more info....")
+    text=("Type ` !help ` Or [Ask Doubts Here](https://t.me/JavesOT)...")
     await alive.client.send_file(alive.chat_id, shivam,caption=text, force_document=False)
     await alive.delete()
 
