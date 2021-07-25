@@ -99,4 +99,5 @@ youtube-search-python==1.3.2
 validators
 numpy
 fontTools
-
+youtube-search
+youtube-search-python
