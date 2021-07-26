@@ -4,7 +4,7 @@ import os
 import sys
 from userbot.utils import admin_cmd
 import random
-from userbot import bot as borg
+from userbot import bot as javes
 
 text1 = "Listen to the night sky; the mockingbird always sings you my lullaby."
 text2 = "The day is over, the night is here, know that I love you today and forever, my dear."
@@ -17,7 +17,7 @@ text9 = "Loving you is like breathing. How can I stop it? Good Night. See you in
 text10 = "Stars light, stars bright, you are the onlystar i see tonight ! good night my friend."
 
 
-@borg.on(admin_cmd(outgoing=True, pattern="gnn"))
+@javes.on(admin_cmd(outgoing=True, pattern="gnn"))
 
 async def _(event):
 
