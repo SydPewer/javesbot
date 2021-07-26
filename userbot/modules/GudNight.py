@@ -11,13 +11,13 @@ text2 = "The day is over, the night is here, know that I love you today and fore
 text3 = "Each night, I hope the moon is large and bright and you will be happy and right. When you turn off the light, keep in mind that I am dreaming of you."
 text4 = "Good night. May you fall asleep in the arms of a dream so beautiful you’ll cry when you awake."
 text5 = "Take a deep breath and sleep tight while dreaming of me. Sweet dreams."
-# text6 = ""
-# text8 = ""
-# text9 = ""
-# text10 = ""
+text6 = "Off to my land of dreams and fantasies, Good Night and sweet dreams."
+text8 = "A good laugh and a long sleep are the best cures in the doctor's book."
+text9 = "Loving you is like breathing. How can I stop it? Good Night. See you in dreams world."
+text10 = "Stars light, stars bright, you are the onlystar i see tonight ! good night my friend."
 
 
-@borg.on(admin_cmd(outgoing=True, pattern="gn_quotes"))
+@borg.on(admin_cmd(outgoing=True, pattern="gnn"))
 
 async def _(event):
 
@@ -36,4 +36,14 @@ async def _(event):
         await borg.send_message(event.chat_id,text4)
     if x==5:
         await borg.send_message(event.chat_id,text5)
+    if x==6:
+        await borg.send_message(event.chat_id,text6)
+    if x==7:
+        await borg.send_message(event.chat_id,text7)
+    if x==8:
+        await borg.send_message(event.chat_id,text8)
+    if x==9:
+        await borg.send_message(event.chat_id,text9)
+    if x==10:
+        await borg.send_message(event.chat_id,text10)
         
