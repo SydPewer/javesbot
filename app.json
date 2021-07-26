@@ -168,7 +168,7 @@
       },
       "YOUR_SHORT_NAME": {
         "description": "Name to show in !javes message!",
-        "value": "Give Your Name",
+        "value": "JavesSD user",
         "required": true
   
       },
