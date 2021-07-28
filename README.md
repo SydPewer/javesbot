@@ -58,13 +58,13 @@ The easiest way to deploy this Bot
 
 <h2> ⚜ Credits ⚜ </h2>
 
-Special Thanks To Our contributors - Click Me To View List.
+Special Thanks To Our contributors - [Click Me To View List](https://sydpewer.data.blog/about/).
 
 
 
 # The Normal Way
 
-Termux String Gen From SydPewer:
+Termux String Gen From Javes Team:
 ```apt-get update
 apt-get upgrade -y
 pkg upgrade -y
