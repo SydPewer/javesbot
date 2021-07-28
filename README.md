@@ -1,4 +1,4 @@
-<h2 align="center"><b><a href="https://telegram.dog/JavesOT">★ Welcome :)</a></b></h2>
+<h2 align="center"><b><a href="https://telegram.dog/JavesOT">➪ Welcome :)</a></b></h2>
 <h2><b> </b></h2>
 <h2><b>★ Tʜɪs ɪs 𝙅𝘼𝙑𝙀𝙎 : SD </b></h2>
 <br>
@@ -8,7 +8,7 @@
    <br>
    <br>
 </p>
-<h3>💬 About JAVES : SD Userbot</h3>
+<h3>💬 More About JAVES : SD Userbot</h3>
 <br>
 <h2><b>★ ᴀ ᴛᴇʟᴇᴛʜᴏɴ ʙᴀsᴇᴅ ᴛᴇʟᴇɢʀᴀᴍ ᴜsᴇʀʙᴏᴛ ᴡɪᴛʜ sᴏᴍᴇ ᴇxᴛʀᴀ ғᴇᴀᴛᴜʀᴇs ᴛᴏ ʙᴏᴏsᴛ ʏᴏᴜʀ ᴛᴇʟᴇɢʀᴀᴍ ᴇxᴘᴇʀɪᴇɴᴄᴇ ᴏʀɪɢɪɴᴀᴛᴇᴅ ғʀᴏᴍ ᴊᴀᴠᴇs ..</b></h2>
 <br>
@@ -27,19 +27,21 @@
 <br>
 
 
-<h2> 💠 Deploy 💠 </h2>
+<h2> 🗣️ Host It </h2>
+
+The easiest way to deploy this Bot
 
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/SydPewer/javesbot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
-<h2> 🚑 Support 🚑 </h2>
+<h2> ⚙️ Support </h2>
 
 <a href="https://t.me/JavesOT"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
 <a href="Https://t.me/JavesUpdates"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 
 
-<h2> 🏄‍♂️ Click On The Button Below To Deploy 🏄‍♂️ </h2>
+<h2> 👇 Click To Deploy </h2>
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SydPewer/javesbot)
 
@@ -49,14 +51,14 @@
 * String [Generate from here](https://replit.com/@SydPewer/Javes-20-String-session?v=1)
 
 
-<h2> ⚡ String ⚡ </h2>
+<h2> 🔗 String </h2>
 
-[![Run on Repl.it](https://repl.it/badge/github/STARKGANG/friday)](https://replit.com/@SydPewer/Javes-20-String-session-1?v=1)
+[![Javes String.SD](https://repl.it/badge/github/STARKGANG/friday)](https://replit.com/@SydPewer/Javes-20-String-session-1?v=1)
 
 
 <h2> ⚜ Credits ⚜ </h2>
 
-Special Thanks To Our contributors @Changed_With_Time , @SydPewer & our hard working Team members.
+Special Thanks To Our contributors - Click Me To View List.
 
 
 
