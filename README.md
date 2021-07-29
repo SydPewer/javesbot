@@ -58,7 +58,7 @@ The easiest way to deploy this Bot
 
 <h2> ⚜ Credits ⚜ </h2>
 
-Special Thanks To Our contributors - [Click Me To View List](https://sydpewer.data.blog/about/).
+Special Thanks To Our contributors - Amaan The Gamer And 👉[Click Me To View List](https://sydpewer.data.blog/about/).
 
 
 
