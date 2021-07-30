@@ -23,9 +23,8 @@ async def _(event):
 
     if event.fwd_from:
         return
-    # await event.edit("̀ˋSending a beautiful quote for you..`")
     await asyncio.sleep(0)
-    x=(random.randrange(0,5))
+    x=(random.randrange(0,11))
     if x==1:
         await borg.send_message(event.chat_id,text1)
     if x==2:
