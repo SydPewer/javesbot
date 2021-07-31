@@ -4,7 +4,7 @@
 <br>
 <br>
 <p align="center">
-   <a href="https://github.com/SydPewer/javesbot"><img src="https://telegra.ph/file/573c6fbf9b845a2870918.png" alt="JAVES SD" width=400px></a>
+   <a href="https://github.com/SydPewer/javesbot"><img src="https://telegra.ph/file/573c6fbf9b845a2870918.png" alt="JAVES SD" width=450px></a>
    <br>
    <br>
 </p>
