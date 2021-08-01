@@ -9,7 +9,7 @@ from userbot import bot as borg
 text1 = "Listen to the night sky; the mockingbird always sings you my lullaby."
 text2 = "The day is over, the night is here, know that I love you today and forever, my dear."
 text3 = "Each night, I hope the moon is large and bright and you will be happy and right. When you turn off the light, keep in mind that I am dreaming of you."
-text4 = "Good night. May you fall asleep in the arms of a dream so beautiful you’ll cry when you awake."
+text4 = "Good night. May you fall asleep in the arms of a dream so beautiful you'll cry when you awake."
 text5 = "Take a deep breath and sleep tight while dreaming of me. Sweet dreams."
 text6 = "Off to my land of dreams and fantasies, Good Night and sweet dreams."
 text8 = "A good laugh and a long sleep are the best cures in the doctor's book."
