@@ -24,7 +24,7 @@ async def _(event):
     if event.fwd_from:
         return
     await asyncio.sleep(0)
-    x=(random.randrange(0,11))
+    x=(random.randrange(0,10))
     if x==1:
         await borg.send_message(event.chat_id,text1)
     if x==2:
