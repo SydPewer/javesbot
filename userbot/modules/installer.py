@@ -136,6 +136,8 @@ CMD_HELP.update({
 \n**Usage:** Install the plugin\
 \n\n`!installall <channel/group username>`\
 \n**Usage:**Install all plugins from the channel or group\
+\n\n`!uninstall <plugin name>`\
+\n**Usage:**Uninstall a plugin\
 "
 })
 
