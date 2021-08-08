@@ -7,7 +7,7 @@ from userbot import CMD_HELP
 from . import *
 
 
-@borg.on(admin_cmd(pattern="xnxx?(.*)"))
+@borg.on(admin_cmd(pattern="xnxx_video?(.*)"))
 async def _(event):
     if event.fwd_from:
         return
@@ -33,7 +33,7 @@ async def _(event):
 
 #Social distancing....
 
-@borg.on(admin_cmd(pattern="picx?(.*)"))
+@borg.on(admin_cmd(pattern="xnxx_pic?(.*)"))
 async def _(event):
     if event.fwd_from:
         return
@@ -59,7 +59,7 @@ async def _(event):
 
 #Social distancing....
 
-@borg.on(admin_cmd(pattern="les?(.*)"))
+@borg.on(admin_cmd(pattern="xnxx_gif?(.*)"))
 async def _(event):
     if event.fwd_from:
         return
@@ -86,11 +86,11 @@ async def _(event):
 CMD_HELP.update(
     {
         "OnlyAdults": "**Plugin : **`OnlyAdults`\
-        \n\n**Syntax : **`.xnxx`\
+        \n\n**Syntax : **`.xnxx_video`\
         \n**Usage :** Try it yourself🤪\
-        \n\n**Syntax :**`.picx`\
+        \n\n**Syntax :**`.xnxx_pic`\
         \n**Usage :** Try it yourself🤪\
-        \n\n**Syntax :**`.les`\
+        \n\n**Syntax :**`.xnxx_gif`\
         \n**Usage :** Try it yourself🤪\
         \n\n\n     __**⚠️ Warning 18+ Kids stay away ⚠️**__"
     }
